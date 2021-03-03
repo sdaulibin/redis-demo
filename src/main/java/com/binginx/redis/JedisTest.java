@@ -1,4 +1,4 @@
-package com.binginx.redis.demo;
+package com.binginx.redis;
 
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.params.SetParams;
