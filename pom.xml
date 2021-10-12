@@ -20,6 +20,11 @@
             <artifactId>fastjson</artifactId>
             <version>1.2.73</version>
         </dependency>
+        <dependency>
+            <groupId>org.redisson</groupId>
+            <artifactId>redisson</artifactId>
+            <version>3.11.3</version>
+        </dependency>
     </dependencies>
 
     <properties>
